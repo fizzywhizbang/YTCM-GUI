@@ -1,0 +1,9 @@
+apscheduler
+sqlalchemy
+youtube_dl
+bs4
+lxml
+feedparser
+urwid
+Pillow-PIL
+python-daemon
