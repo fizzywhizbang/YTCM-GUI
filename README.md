@@ -19,9 +19,12 @@ Running this with -h or --help will give you a list of options
 # ytcm-daemon.py
 Running this will continuously monitor added channels
 If you do run this and want to use the GUI to add channels be sure to set standalone to True on the ytcm.conf
+--This can be configured to run on a local server and be managed by the GUI from a workstation utilizing some sort of network share.
+--JDownloader can be installed on your server headless and be managed through the JD API
+
 
 # ytcm_start.py
 Running this will automatically start the monitor option and with a split terminal/console allow you to access other features of the program without opening a second terminal window
 
 # ytcm-gui.py
-Running this will start the tkinter gui application
+Running this will start the tkinter gui application (more features to come)
