@@ -11,6 +11,8 @@ Requires python 3.6 or later
 For the base code credit goes to https://github.com/woefe/ytcc
 
 
+:) Yes, I have some code cleanup to do but I'm putting this up here so I can keep from jacking this up too bad :)
+
 # ytcm.py
 Running this with -h or --help will give you a list of options
 
